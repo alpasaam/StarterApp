@@ -1,3 +1,12 @@
+# Starter App
+
+## Usually, do this 
+* brief description of the site
+* Add the name of the client, along with their work position
+
+
+
+
 # FHSS Starter App
 _When starting a new project repo in GitHub, use this repository as the template._
 
